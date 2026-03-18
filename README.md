@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=100&height=120&lines=Hi+I'm+Parth+Kishan+👋;Frontend+Developer+%26+UI+Designer+🎨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=2&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=120&lines=Hi+I'm+Parth+Kishan+👋;Frontend+Developer+%26+UI+Designer+🎨)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Building+beautiful+things+for+the+internet+🚀;One+person%2C+full+package+—+design+%2B+code+😄;Open+to+international+freelance+projects+🌍" alt="Subtitle"/>

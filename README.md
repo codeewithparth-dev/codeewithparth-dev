@@ -1,16 +1,131 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**codeewithparth-dev/codeewithparth-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=220&section=header&text=Parth%20Kishan&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Frontend%20Developer%20%26%20UI%20Designer&descAlignY=58&descSize=22&descColor=8b949e" width="100%"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+digital+experiences+%F0%9F%9A%80;Frontend+Developer+%26+UI+Designer+%F0%9F%8E%A8;Building+with+AI+tools+%F0%9F%A4%96;Open+to+freelance+projects+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+---
+
+### 👨‍💻 About Me
+
+```javascript
+const parth = {
+  name: "Parth Kishan",
+  role: "Frontend Developer & UI Designer",
+  location: "Karachi, Pakistan 🇵🇰",
+  email: "codeewithparth@gmail.com",
+  portfolio: "🔨 Currently building...",
+  currentlyBuilding: "Omnicraft Agency Website",
+  openTo: "International freelance clients 🌍",
+  usingAI: ["Google Antigravity", "Claude AI"],
+  funFact: "I design AND code — one person, full package 😄"
+};
+```
+
+<br/>
+
+- 🔭 Currently building **my personal portfolio** + **Omnicraft agency site**
+- 🌱 Deepening my **JavaScript** knowledge every single day
+- 🤖 Building real websites using **AI-powered tools** like Google Antigravity
+- 💼 Looking for **freelance projects** from international clients
+- ⚡ Fun fact: I went from zero to building full websites in under 2 years!
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**⚡ Currently Using**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github&theme=dark" />
+
+<br/><br/>
+
+**📚 Currently Learning**
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,figma,threejs,nextjs&theme=dark" />
+
+<br/>
+
+![GSAP](https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeewithparth-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeewithparth-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=codeewithparth-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+</div>
+
+---
+
+### 🏗️ Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|--------|-------------|------------|--------|
+| 🏢 **Omnicraft** | Creative agency website with cinematic dark aesthetic | React · Vite · Tailwind | ✅ Building |
+| 🌐 **Portfolio** | Personal portfolio targeting international freelance clients | React · Vite · GSAP | 🔨 Coming Soon |
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codeewithparth-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+
+</div>
+
+---
+
+### 🤝 Let's Work Together
+
+<div align="center">
+
+💡 Got a project idea? Let's build something amazing together.
+I'm a **Frontend Developer & UI Designer** who designs AND builds —
+so you get one person, not two invoices. 😄
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-codeewithparth@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeewithparth@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-codeewithparth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codeewithparth)
+[![Instagram](https://img.shields.io/badge/Instagram-codeewithparth-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codeewithparth)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=codeewithparth-dev&color=58a6ff&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=58a6ff" width="100%"/>
+
+</div>

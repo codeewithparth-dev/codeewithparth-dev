@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=220&section=header&text=Parth%20Kishan&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Frontend%20Developer%20%26%20UI%20Designer&descAlignY=58&descSize=22&descColor=8b949e" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=120&lines=Hi+I'm+Parth+Kishan+👋;Frontend+Developer+%26+UI+Designer+🎨)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+digital+experiences+%F0%9F%9A%80;Frontend+Developer+%26+UI+Designer+%F0%9F%8E%A8;Building+with+AI+tools+%F0%9F%A4%96;Open+to+freelance+projects+%F0%9F%8C%8D)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Building+beautiful+things+for+the+internet+🚀;One+person%2C+full+package+—+design+%2B+code+😄;Open+to+international+freelance+projects+🌍" alt="Subtitle"/>
+</p>
 
 <br/>
+
+<a href="mailto:codeewithparth@gmail.com"><img src="https://img.shields.io/badge/Gmail-codeewithparth@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/codeewithparth"><img src="https://img.shields.io/badge/Instagram-codeewithparth-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/codeewithparth"><img src="https://img.shields.io/badge/LinkedIn-codeewithparth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=codeewithparth-dev&color=58a6ff&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -22,6 +28,7 @@ const parth = {
   role: "Frontend Developer & UI Designer",
   location: "Karachi, Pakistan 🇵🇰",
   email: "codeewithparth@gmail.com",
+  instagram: "@codeewithparth",
   portfolio: "🔨 Currently building...",
   currentlyBuilding: "Omnicraft Agency Website",
   openTo: "International freelance clients 🌍",
@@ -112,13 +119,10 @@ so you get one person, not two invoices. 😄
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-codeewithparth@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeewithparth@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-codeewithparth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codeewithparth)
-[![Instagram](https://img.shields.io/badge/Instagram-codeewithparth-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codeewithparth)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=codeewithparth-dev&color=58a6ff&style=for-the-badge&label=Profile+Views)
+<a href="mailto:codeewithparth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/codeewithparth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/codeewithparth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/codeewithparth-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -126,6 +130,6 @@ so you get one person, not two invoices. 😄
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=58a6ff" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&height=50&lines=Thanks+for+visiting!+⭐+Drop+a+star!)](https://git.io/typing-svg)
 
 </div>

@@ -93,7 +93,7 @@ const parth = {
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
 | 🏢 **Omnicraft** | Creative agency website with cinematic dark aesthetic | React · Vite · Tailwind | ✅ Building |
-| 🌐 **Portfolio** | Personal portfolio targeting international freelance clients | React · Vite · GSAP | 🔨 Coming Soon |
+| 🌐 **Portfolio** | Personal portfolio targeting international freelance clients | React · Vite · GSAP |on Github|
 
 </div>
 

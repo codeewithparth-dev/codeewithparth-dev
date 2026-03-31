@@ -94,6 +94,7 @@ const parth = {
 |--------|-------------|------------|--------|
 | 🏢 **Omnicraft** | Creative agency website with cinematic dark aesthetic | React · Vite · Tailwind | ✅ Building |
 | 🌐 **Portfolio** | Personal portfolio targeting international freelance clients | React · Vite · GSAP |on Github|
+| 🌐 **Flourish beauty parlor** | Beautiful Parlor Website  | React · Vite · GSAP |on Github|
 
 </div>
 
@@ -121,7 +122,7 @@ so you get one person, not two invoices. 😄
 
 <a href="mailto:codeewithparth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/codeewithparth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/codeewithparth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/parthkishanlinkdeinp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/codeewithparth-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>

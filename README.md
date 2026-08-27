@@ -29,10 +29,10 @@ const parth = {
   location: "Karachi, Pakistan 🇵🇰",
   email: "codeewithparth@gmail.com",
   instagram: "@codeewithparth",
-  portfolio: "🔨 Currently building...",
+  portfolio: "Completed",
   currentlyBuilding: "Omnicraft Agency Website",
   openTo: "International freelance clients 🌍",
-  usingAI: ["Google Antigravity", "Claude AI"],
+  usingAI: ["Google Antigravity", "Claude AI", "and much more"],
   funFact: "I design AND code — one person, full package 😄"
 };
 ```

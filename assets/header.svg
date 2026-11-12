@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Parth Kishan, AI-Assisted Frontend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="0.5" stop-color="#a371f7"/><stop offset="1" stop-color="#f778ba"/></linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/></pattern>
+    <clipPath id="frame"><rect width="1000" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="300" fill="url(#bg)"/>
+    <rect width="1000" height="300" fill="url(#grid)"/>
+    <circle r="130" fill="#58a6ff" opacity="0.28" filter="url(#blur)">
+      <animate attributeName="cx" values="150;420;150" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;230;80" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="150" fill="#a371f7" opacity="0.25" filter="url(#blur)">
+      <animate attributeName="cx" values="850;600;850" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="220;60;220" dur="17s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="100" fill="#f778ba" opacity="0.18" filter="url(#blur)">
+      <animate attributeName="cx" values="500;760;500" dur="19s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="280;120;280" dur="19s" repeatCount="indefinite"/>
+    </circle>
+    <g fill="#ffffff">
+      <circle cx="880" cy="60" r="2" opacity="0.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="930" cy="130" r="1.6" opacity="0.4"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="760" cy="40" r="1.8" opacity="0.4"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="960" cy="240" r="2" opacity="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.5s" repeatCount="indefinite"/></circle>
+      <circle cx="690" cy="260" r="1.5" opacity="0.4"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.5s" repeatCount="indefinite"/></circle>
+    </g>
+    <text x="80" y="78" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="16" fill="#8b949e">&lt;hello world /&gt;</text>
+    <text x="80" y="140" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="800" fill="url(#name)">Parth Kishan
+      <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+    </text>
+    
+  <clipPath id="c0"><rect x="80" y="170" height="44" width="0">
+    <animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;0.0001;0.1;0.24;0.3133;1" values="0;0;476;476;0;0"/>
+  </rect></clipPath>
+  <text x="80" y="200" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="26" fill="#e6edf3" clip-path="url(#c0)" xml:space="preserve">AI-Assisted Frontend Developer</text>
+  <rect x="80" y="176" width="3" height="30" rx="1.5" fill="#58a6ff" opacity="0">
+    <animate attributeName="x" dur="15s" repeatCount="indefinite" keyTimes="0;0.0001;0.1;0.24;0.3133;1" values="0.0;0.0;476;476;0;0" calcMode="linear" additive="sum"/>
+    <animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.0001;0.1;0.24;0.3133;1" values="0;1;1;1;0;0"/>
+  </rect>
+  <clipPath id="c1"><rect x="80" y="170" height="44" width="0">
+    <animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;0.3333;0.4333;0.5733;0.6467;1" values="0;0;336;336;0;0"/>
+  </rect></clipPath>
+  <text x="80" y="200" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="26" fill="#e6edf3" clip-path="url(#c1)" xml:space="preserve">Design  ·  Web  ·  AI</text>
+  <rect x="80" y="176" width="3" height="30" rx="1.5" fill="#58a6ff" opacity="0">
+    <animate attributeName="x" dur="15s" repeatCount="indefinite" keyTimes="0;0.3333;0.4333;0.5733;0.6467;1" values="0.0;0.0;336;336;0;0" calcMode="linear" additive="sum"/>
+    <animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.3333;0.4333;0.5733;0.6467;1" values="0;1;1;1;0;0"/>
+  </rect>
+  <clipPath id="c2"><rect x="80" y="170" height="44" width="0">
+    <animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;0.6667;0.7667;0.9067;0.98;1" values="0;0;601;601;0;0"/>
+  </rect></clipPath>
+  <text x="80" y="200" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="26" fill="#e6edf3" clip-path="url(#c2)" xml:space="preserve">Turning ideas into digital experiences</text>
+  <rect x="80" y="176" width="3" height="30" rx="1.5" fill="#58a6ff" opacity="0">
+    <animate attributeName="x" dur="15s" repeatCount="indefinite" keyTimes="0;0.6667;0.7667;0.9067;0.98;1" values="0.0;0.0;601;601;0;0" calcMode="linear" additive="sum"/>
+    <animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.6667;0.7667;0.9067;0.98;1" values="0;1;1;1;0;0"/>
+  </rect>
+    <text x="80" y="256" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">Karachi, Pakistan</text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="299" rx="18" fill="none" stroke="#30363d"/>
+</svg>

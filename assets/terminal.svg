@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-label="Currently learning">
+  <rect x="0.5" y="0.5" width="639" height="319" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 14a13 13 0 0 1 13-13h612a13 13 0 0 1 13 13v26H1z" fill="#161b22"/>
+  <circle cx="26" cy="22" r="6" fill="#ff5f56"/><circle cx="48" cy="22" r="6" fill="#ffbd2e"/><circle cx="70" cy="22" r="6" fill="#27c93f"/>
+  <text x="320" y="27" text-anchor="middle" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="13" fill="#8b949e">parth@omnicraft: ~</text>
+  
+  <text x="36" y="92" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#8b949e" opacity="0">$ whoami
+    <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.5s" fill="freeze"/>
+  </text>
+  <text x="36" y="122" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#e6edf3" opacity="0">parth — ai-assisted frontend developer
+    <animate attributeName="opacity" from="0" to="1" begin="1.7000000000000002s" dur="0.5s" fill="freeze"/>
+  </text>
+  <text x="36" y="152" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#8b949e" opacity="0">$ cat currently_learning.txt
+    <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.5s" fill="freeze"/>
+  </text>
+  <text x="36" y="182" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#7ee787" opacity="0">→ Advanced JavaScript
+    <animate attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.5s" fill="freeze"/>
+  </text>
+  <text x="36" y="212" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#7ee787" opacity="0">→ React &amp; Next.js
+    <animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.5s" fill="freeze"/>
+  </text>
+  <text x="36" y="242" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#7ee787" opacity="0">→ Cybersecurity Essentials
+    <animate attributeName="opacity" from="0" to="1" begin="5.3s" dur="0.5s" fill="freeze"/>
+  </text>
+  <text x="36" y="272" font-family="'Cascadia Code','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="15" fill="#7ee787" opacity="0">→ Better frontend practices
+    <animate attributeName="opacity" from="0" to="1" begin="6.2s" dur="0.5s" fill="freeze"/>
+  </text>
+  <rect x="36" y="288" width="9" height="18" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

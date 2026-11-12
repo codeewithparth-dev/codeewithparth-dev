@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="Design with curiosity. Build with creativity. Learn every day.">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="0.5" stop-color="#a371f7"/><stop offset="1" stop-color="#f778ba"/></linearGradient>
+    <clipPath id="f"><rect width="1000" height="140"/></clipPath>
+  </defs>
+  <g clip-path="url(#f)">
+    <g opacity="0.25" fill="url(#w)">
+      <path d="M0 70 Q125 20 250 70 T500 70 T750 70 T1000 70 T1250 70 T1500 70 V140 H0Z">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="12s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g opacity="0.4" fill="url(#w)">
+      <path d="M0 90 Q125 50 250 90 T500 90 T750 90 T1000 90 T1250 90 T1500 90 V140 H0Z">
+        <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <text x="500" y="62" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#e6edf3">Design with curiosity. Build with creativity. Learn every day. ✨</text>
+  </g>
+</svg>

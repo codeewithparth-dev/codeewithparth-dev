@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="34" viewBox="0 0 118 34" role="img" aria-label="JavaScript">
+  <rect x="0.5" y="0.5" width="117" height="33" rx="17" fill="#161b22" stroke="#30363d"/>
+  <circle cx="18" cy="17" r="5" fill="#f7df1e"><animate attributeName="opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/></circle>
+  <text x="32" y="22" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e6edf3">JavaScript</text>
+</svg>
